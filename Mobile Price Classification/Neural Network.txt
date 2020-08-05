@@ -1,0 +1,41 @@
+1. What is an Artificial Neural Network?
+
+Simply put, an ANN represents interconnected input and output units in which each connection has an associated weight. During the learning phase, the network learns by adjusting these weights in order to be able to predict the correct class for input data.
+
+2. Applications of Artificial Neural Networks:
+
+a. Classification of data:
+
+Based on a set of data, our trained neural network predicts whether it is a dog or a cat?
+
+b. Anomaly detection:
+
+Given the details about transactions of a person, it can say that whether the transaction is fraud or not.
+
+c. Speech recognition:
+
+We can train our neural network to recognize speech patterns. Example: Siri, Alexa, Google assistant.
+
+d. Audio generation:
+
+Given the inputs as audio files, it can generate new music based on various factors like genre, singer, and others.
+
+e. Time series analysis:
+
+A well trained neural network can predict the stock price.
+
+f. Spell checking:
+
+We can train a neural network that detects misspelled spellings and can also suggest a similar meaning for words. Example: Grammarly
+
+g. Character recognition:
+
+A well trained neural network can detect handwritten characters.
+
+h. Machine translation:
+
+We can develop a neural network that translates one language into another language.
+
+i. Image processing:
+
+We can train a neural network to process an image and extract pieces of information from it.
